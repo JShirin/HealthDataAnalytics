@@ -40,6 +40,7 @@ All three models tested did well, however, the LGBM and hybrid models outperform
 # Road Safety Analysis
 
 ## Introduction
+
 Our project’s goal is focused on analyzing these roads and helping to provide context around what contributes to the likelihood of overall road safety and what external factors might increase the accident likelihood.
 This study will aid in providing drivers with information that can help keep them safe on the road while providing them insights when making decisions on how to decrease their likelihood of getting into an accident on the road. 
 We would like to analyze the following…
@@ -47,5 +48,3 @@ What days of the week/times of the day experience the highest amount of road tra
 What roads have the highest likelihood of an accident
 What factors contribute to a road having an increased likelihood of accidents
 What patterns do we see in the data that can help keep cars safe on the road
-
-![image](https://github.com/JShirin/HealthDataAnalytics/assets/71100166/e80d525a-9170-49c5-84ce-0bb15f137459)
