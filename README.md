@@ -15,7 +15,7 @@ Using Tableau, we modeled potential relationships between variables from the mer
 1.	Johns Hopkins University & Medicine. (2021). Coronavirus Resource Center. Johns Hopkins University & Medicine- Coronavirus Resource Center. https://coronavirus.jhu.edu/data.
 
 
-##-------------------------------------------------------------------------------------------------------------------------------
+## -----------------------------------------------------------------------------------------------------------------------------
 # LGBM RNN Based Methods for Predicting House Prices
 
 ## Abstract
@@ -36,7 +36,7 @@ All three models tested did well, however, the LGBM and hybrid models outperform
 
 
 
-##----------------------------------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------------------------------------------
 # Road Safety Analysis
 
 ## Introduction
